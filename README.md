@@ -1,7 +1,6 @@
 # Crear y usar entornos virtuales en Python
 
-
-## Crear un entorno virtual
+## Crear un entorno virtual.
 
 Para crear un entorno virtual, sigue los siguientes pasos:
 
